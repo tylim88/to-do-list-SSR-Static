@@ -6,7 +6,7 @@ This example demostrate how to do SSR (or more precisely USR) using Nextjs plus 
 
 This is a pure JS example, no HTML and CSS needed in source file.
 
-No CSS file send to client side.
+No CSS file send to client side. (It is not recommended to put everything in html file, but I did it just for the sake of example).
 
 Tech stack:  
 UI rendering: Next
