@@ -8,9 +8,11 @@ This is a pure JS example, no HTML and CSS needed in source file.
 
 No CSS file send to client side. (It is not recommended to put everything in html file, but I did it just for the sake of example).
 
+visit live demo: https://todo-wppbeebyxs.now.sh/
+
 Tech stack:  
 UI rendering: Next
-CSS: Styled Component(CSS in JS)
+CSS: Styled Component (CSS in JS)
 Bootstrap: Styled Component Bootstrap  
 State Management: Unstated
 Server: Zeit Now (Serverless)
@@ -23,3 +25,5 @@ https://github.com/tylim88/to-do-list-CSR
 Because this example has no dynamic data, you can also generate equivalent static files by using `npm run export` command.
 
 In the generated `index.html`, Change all `/_next` keywords to `_next` and you are good to go.
+
+visit live demo: https://pensive-knuth-aacf4f.netlify.com/
