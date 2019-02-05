@@ -6,7 +6,7 @@ This example demostrate how to do SSR (or more precisely USR) using Nextjs plus 
 
 This is a pure JS example, no HTML and CSS needed in source file.
 
-No CSS file send to client side. (It is not recommended to put everything in html file, but I did it just for the sake of example and this example shows that if you inline the font in js, the size of both html and js increase so think twice before you inline in js).
+No CSS file send to client side. (It is not recommended to put everything in html file, but I did it just for the sake of example and this example shows that if you load base 64 ttf font in js, the size of both html and js increase so think twice before you load base 64 font in js).
 
 visit live demo: https://todo-wppbeebyxs.now.sh/
 
