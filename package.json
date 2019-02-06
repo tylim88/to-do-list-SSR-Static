@@ -14,6 +14,7 @@
     "license": "ISC",
     "dependencies": {
         "@bootstrap-styled/v4": "^3.0.3",
+        "@zeit/next-bundle-analyzer": "^0.1.2",
         "bootstrap": "^4.2.1",
         "localstorage-ponyfill": "^1.0.2",
         "next": "^7.0.2",
