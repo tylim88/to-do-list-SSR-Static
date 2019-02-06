@@ -26,3 +26,6 @@ yarn-error.log*
 /.next
 /.cache
 /bundles
+handWriting-long.js
+handWriting-short.js
+bootstrap.css
