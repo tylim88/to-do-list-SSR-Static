@@ -2,7 +2,6 @@ import React from 'react'
 import { Button, ButtonGroup } from '@bootstrap-styled/v4'
 import { Subscribe } from 'unstated'
 import { ListContainer } from '../state'
-import Link from 'next/link'
 import styled from 'styled-components'
 import Router, { withRouter } from 'next/router'
 

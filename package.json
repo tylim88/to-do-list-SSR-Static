@@ -17,6 +17,7 @@
         "bootstrap": "^4.2.1",
         "localstorage-ponyfill": "^1.0.2",
         "next": "^7.0.2",
+        "next-fonts": "^0.17.0",
         "react": "^16.7.0",
         "react-bootstrap": "^1.0.0-beta.5",
         "react-dom": "^16.7.0",
