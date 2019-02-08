@@ -13,7 +13,7 @@ visit live demo: https://todo-wppbeebyxs.now.sh/
 Tech stack:  
 UI rendering: Next
 CSS: Styled Component (CSS in JS)
-Bootstrap: Styled Component Bootstrap  
+Bootstrap: Styled Component Bootstrap (this is a bad library, dont use it)
 State Management: Unstated
 Server: Zeit Now (Serverless)
 
