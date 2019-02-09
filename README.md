@@ -11,10 +11,10 @@ No CSS file send to client side. (It is not recommended to put everything in htm
 visit live demo: https://todo-wppbeebyxs.now.sh/
 
 Tech stack:  
-UI rendering: Next
-CSS: Styled Component (CSS in JS)
-Bootstrap: Styled Component Bootstrap (this is a bad library, dont use it)
-State Management: Unstated
+UI rendering: Next  
+CSS: Styled Component (CSS in JS)  
+Bootstrap: Styled Component Bootstrap (this is a bad library, dont use it)  
+State Management: Unstated  
 Server: Zeit Now (Serverless)
 
 Looking for CSR example?  
